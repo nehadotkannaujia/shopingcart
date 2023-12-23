@@ -1,3 +1,5 @@
+# shoping cart app - https://658632982ac877ef0cdd9335--bright-twilight-a2116f.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
